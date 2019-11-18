@@ -200,4 +200,4 @@ Once the ears are completed, we are going to add the eyes and the pupils.
     z-index: 4;
   }
 ```
-What animal do you see? :)
+What animal do you see? Is it an owl! You bet!
