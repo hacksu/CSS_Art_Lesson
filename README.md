@@ -186,8 +186,40 @@ Then we are going to add ears behind the head copy, and add inner ear for depth.
   background: #819CAF;
 }
 ```
-Once the ears are completed, we are going to add the eyes and the pupils.
+Once the ears are completed, we are going to add the eyes,the pupils, and the nose.
 ```
+.Eye-left{
+  position: absolute;
+  background: white;
+  width: 40%;
+  height: 43%;
+  top: 25%;
+  left: 14%;
+  border-radius: 50%;
+  z-index: 3;
+}
+
+.Eye-right{
+  position: absolute;
+  background: white;
+  width: 40%;
+  height: 43%;
+  top: 25%;
+  right: 12%;
+  border-radius: 50%;
+  z-index: 2;
+}
+
+.Pupil{
+ position: absolute;
+ width: 70%;
+ height: 70%;
+ top: 18%;
+ left: 15%;
+ border-radius: 50%;
+ background: #27354A;
+}
+
 
 .Nose{
     position: absolute;
