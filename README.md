@@ -10,7 +10,7 @@ Cloning is done with the following steps:
   3. Click on the button that says clone and copy the url
   4. Type in the following command to do so:
 ```
-git clone repo [paste url here]
+git clone [paste url here]
 ```
 You have cloned successfully!
 
